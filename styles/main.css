@@ -1,0 +1,15 @@
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+/* display size for all content */
+.display-size {
+  max-width: 90%;
+  margin: 0 auto;
+}
+body {
+  background-color: antiquewhite;
+}
