@@ -8,8 +8,8 @@
 /* display size for all content */
 header {
   background-color: #fff8f3;
-  position: relative;
+  background-image: url(../images/developer.png), url(../images/header_bg.png);
+  background-repeat: no-repeat;
+  background-position: left 30px center, bottom right;
+  background-size: 70px, 600px;
 }
-/* body {
-  background-color: antiquewhite;
-} */
