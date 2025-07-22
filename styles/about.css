@@ -23,12 +23,15 @@
   margin-top: 60px;
   margin-bottom: 0;
 }
+
+/* shared styles with what-i-do section*/
 .about-h2 {
   margin-bottom: 10px;
   font-size: 35px;
   font-weight: bold;
   color: #181818;
 }
+/* shared styles with what-i-do section*/
 .about-para {
   font-size: 18px;
   line-height: 30px;
@@ -42,4 +45,9 @@
   color: #181818;
   font-weight: bold;
   font-size: 20px;
+}
+.what-i-do {
+  max-width: 827px;
+  margin: 0 auto;
+  text-align: center;
 }
