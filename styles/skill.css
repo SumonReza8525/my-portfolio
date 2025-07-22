@@ -1,12 +1,12 @@
 .card-container {
-  max-width: 827px;
+  max-width: 1140px;
   display: flex;
   justify-content: space-between;
   margin: 50px auto;
-  gap: 15px;
+  gap: 25px;
 }
 .card-container .card {
-  padding: 20px 5px 20px 10px;
+  padding: 40px 20px;
   background-color: #ffffff;
   box-shadow: 1px 1px 5px #00000062;
   background: linear-gradient(
@@ -15,7 +15,7 @@
     rgba(128, 128, 128, 0.692)
   );
   border-radius: 5px;
-  margin-bottom: 100px;
+  margin-bottom: 10px;
 }
 .card-container .card:hover {
   box-shadow: inset 1px 1px 5px #00000062;
@@ -34,4 +34,5 @@
 .tech-about {
   font-size: 16px;
   color: #151505d6;
+  font-weight: 500;
 }
