@@ -6,10 +6,10 @@
   font-variation-settings: "wdth" 100;
 }
 /* display size for all content */
-.display-size {
-  max-width: 90%;
-  margin: 0 auto;
+header {
+  background-color: #fff8f3;
+  position: relative;
 }
-body {
+/* body {
   background-color: antiquewhite;
-}
+} */
